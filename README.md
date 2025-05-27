@@ -6,7 +6,7 @@ Sou formada em **Ciência da Computação** e **Direito**, com pós-graduação 
 
 Tenho conhecimentos sólidos em redes de computadores, com certificação CCNA 1 concluída e atualmente me preparando para as certificações CCNA 2 e CCNA 3, ampliando ainda mais minha base em redes e comunicação de dados.
 
-Apaixonada por tecnologia e desafios, estou sempre em busca de evolução profissional e novos aprendizados. No momento, foco meus estudos em **Cibersegurança**, **Python** e na conquista de novas **certificações técnicas**.
+Apaixonada por tecnologia e desafios, estou sempre em busca de evolução profissional e novos aprendizados. No momento, foco meus estudos em **Cibersegurança**, **Python**,**LGPD**, **Diretito Digital**e na conquista de novas **certificações técnicas**.
 
 Fora do mundo tech, sou uma pessoa que valoriza muito a **família, a fé, o bem-estar e os animais**.
 
