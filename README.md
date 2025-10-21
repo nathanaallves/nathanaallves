@@ -8,7 +8,7 @@ Possuo sólidos conhecimentos em redes de computadores, com certificação CCNA 
 
 Também sou certificada em GitHub Foundations, conquista alcançada através do programa GitHub 4 Women, promovido pela iniciativa Mais Mulheres Tech. Fiquei entre as 100 mulheres com melhor desempenho, recebendo o voucher oficial para a certificação — uma experiência que fortaleceu ainda mais minhas habilidades em versionamento, colaboração e boas práticas em desenvolvimento.
 
-Apaixonada por tecnologia e desafios, estou sempre em busca de evolução profissional e novos aprendizados. No momento, foco meus estudos em **Cibersegurança**, **Python**,**LGPD**, **Diretito Digital**, **Inteligência Artificial**  e na conquista de novas **certificações técnicas**.
+Apaixonada por tecnologia e desafios, estou sempre em busca de evolução profissional e novos aprendizados. No momento, foco meus estudos em **Redes**, **Cibersegurança**, **Python**,**LGPD**, **Diretito Digital**, **Inteligência Artificial**  e na conquista de novas **certificações técnicas**.
 
 Fora do mundo tech, sou uma pessoa que valoriza muito a **família, a fé, o bem-estar e os animais**.
 
